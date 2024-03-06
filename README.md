@@ -54,3 +54,11 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Running Local Server
+You may want to preview the site contents before publishing, so just run it by:
+```console
+ $ bundle exec jekyll s
+``` 
+
+After a few seconds, the local service will be published at http://127.0.0.1:4000.
