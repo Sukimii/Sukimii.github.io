@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 琢玉郎 # the main title
 
-tagline: 苟日新 # it will display as the sub-title
+tagline: 苟日新，日日新 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   用心写好每一篇文章！
@@ -29,7 +29,7 @@ github:
   username: Sukimii # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: 1048346744@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com # change to your twitter homepage
     - https://github.com/Sukimii # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
